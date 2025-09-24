@@ -1,4 +1,4 @@
-import React, { useRef } from "react";
+import { useRef } from "react";
 import { motion, useScroll, useTransform } from "framer-motion";
 import floralCard from "../assets/dribbble1.webp";
 import foodCard from "../assets/dribbble2.webp";

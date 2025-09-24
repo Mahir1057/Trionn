@@ -1,4 +1,3 @@
-import React from "react";
 import { motion } from "framer-motion";
 import loftloomImage from "../assets/loftloom-main-landscape.webp";
 

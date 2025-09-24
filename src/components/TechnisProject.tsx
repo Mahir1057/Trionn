@@ -1,4 +1,3 @@
-import React from "react";
 import { motion } from "framer-motion";
 import technisImage from "../assets/technis-main-landscape.webp";
 

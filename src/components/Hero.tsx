@@ -1,4 +1,3 @@
-import React from "react";
 import { motion } from "framer-motion";
 import { useNavigate } from "react-router-dom"; // ✅ import navigate hook
 import introVideo from "../assets/intro-video.mp4";

@@ -1,5 +1,4 @@
 // src/components/BackgroundGlow.tsx
-import React from "react";
 import { motion } from "framer-motion";
 
 export default function BackgroundGlow() {
